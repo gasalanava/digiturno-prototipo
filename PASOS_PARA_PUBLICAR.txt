@@ -1,0 +1,18 @@
+REPOSITORIO RECOMENDADO: digiturno-prototipo
+VISIBILIDAD: Public
+LICENCIA: Ninguna
+
+SUBA DIRECTAMENTE A LA RAÍZ DEL REPOSITORIO:
+- index.html
+- README.md
+- .nojekyll
+- PASOS_PARA_PUBLICAR.txt
+
+NO SUBA EL ZIP AL REPOSITORIO.
+Primero descomprímalo y suba el contenido.
+
+ACTIVAR GITHUB PAGES:
+Settings > Pages > Deploy from a branch > main > /(root) > Save
+
+IMPORTANTE:
+No subir bases de datos reales, contraseñas, secretos, claves ni información personal al repositorio público.
