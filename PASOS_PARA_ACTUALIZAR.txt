@@ -1,0 +1,6 @@
+1. Reemplaza en tu carpeta local del repositorio digiturno-prototipo los archivos por los de esta carpeta.
+2. En GitHub Desktop revisa los cambios.
+3. Commit sugerido: "Integra identidad visual GIRÖN".
+4. Pulsa Push origin.
+5. GitHub Pages se actualizará automáticamente.
+6. La vista previa de WhatsApp puede tardar en refrescar por caché después del despliegue.
