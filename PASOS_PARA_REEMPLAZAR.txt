@@ -1,0 +1,14 @@
+PASOS RÁPIDOS
+
+1. Cierre cualquier archivo abierto dentro de la carpeta `.git`.
+2. Descomprima este ZIP.
+3. Copie TODO su contenido dentro de la carpeta raíz local del repositorio:
+   C:\Users\gabri\OneDrive\Documentos\GitHub\digiturno-prototipo\digiturno-prototipo
+4. Cuando Windows pregunte, elija "Reemplazar los archivos en el destino".
+5. NO toque ni borre la carpeta `.git`.
+6. Abra GitHub Desktop.
+7. Deben aparecer cambios en los archivos públicos.
+8. Escriba como resumen: Conectar Digiturno piloto
+9. Pulse Commit to main.
+10. Pulse Push origin.
+11. Pruebe: https://gasalanava.github.io/digiturno-prototipo/
